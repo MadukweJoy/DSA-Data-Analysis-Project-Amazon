@@ -24,7 +24,7 @@ Product details: name, category, price, discount, and ratings.
 Customer engagement: user reviews, titles, and content.
 ### Tools
 Excel
--	Data cleaning, analysis and creating report
+-	Data cleaning, analysis and creating report.
 ### Exploratory Data Analysis
 EDA involved exploring the Amazon data, using pivot tables and calculated columns to answer key questions such as:
 1. What is the average discount percentage by product category?
