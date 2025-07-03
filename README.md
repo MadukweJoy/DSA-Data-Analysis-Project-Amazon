@@ -1,12 +1,11 @@
 # Amazon Product Review Analysis
 
 ## Table of Contents
-- [Project Overview](#Product-Overview)
+-   [Project Overview](#Product-Overview)
 -	[Data Source](#Data-Source)
 -	[Dataset Description](#Dataset-Description)
 -	[Tools](#Tools)
 -	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
--	[Data Analysis]( #Data-Analysis)
 -	[Results/Findings](#Results/Findings)
 -	[Recommendation](#Recommendation)
 
@@ -38,13 +37,11 @@ EDA involved exploring the Amazon data, using pivot tables and calculated column
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
-    
-### Data Analysis
 
 ### Results/Findings
 The analysis results are summarized as follows:
 - About 50% of products already have discounts greater than or equal to 50%. This will affect the company’s profit/revenue generated. 
-- Only three products emerge with highest average ratings.
+- Only three products emerge with a rating of 5.0.
 
 
 <img width="1233" alt="Image" src="https://github.com/user-attachments/assets/e2771101-0759-4afc-8234-2eaf5d863e03" />
