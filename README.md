@@ -13,15 +13,13 @@
 ### Project Overview
 This data analysis project aims to provide e-commerce analytic solution on products and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-
-<img width="1233" alt="Image" src="https://github.com/user-attachments/assets/e2771101-0759-4afc-8234-2eaf5d863e03" />
-
 ### Data Source
 The primary dataset used for this analysis the “amazon_data.excel” file, containing detailed information about each product sold by the company and customer review.
+
 ### Dataset Description
 The dataset contains information scraped from Amazon product pages, including: 
-Product details: name, category, price, discount, and ratings.
-Customer engagement: user reviews, titles, and content.
+- Product details: name, category, price, discount, and ratings.
+- Customer engagement: user reviews, titles, and content.
 ### Tools
 Excel
 -	Data cleaning, analysis and creating report.
@@ -45,8 +43,12 @@ EDA involved exploring the Amazon data, using pivot tables and calculated column
 
 ### Results/Findings
 The analysis results are summarized as follows:
-- About 50% of products already have discounts greater than 50%. This will affect the company’s profit/revenue generated. 
+- About 50% of products already have discounts greater than or equal to 50%. This will affect the company’s profit/revenue generated. 
 - Only three products emerge with highest average ratings.
+
+
+<img width="1233" alt="Image" src="https://github.com/user-attachments/assets/e2771101-0759-4afc-8234-2eaf5d863e03" />
+
 
 ### Recommendation
 Based on the analysis we recommend the following:
