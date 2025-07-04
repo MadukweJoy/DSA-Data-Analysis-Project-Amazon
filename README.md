@@ -47,7 +47,7 @@ EDA involved exploring the Amazon data, using pivot tables and calculated column
 The analysis results are summarized as follows:
 - About 50% of products already have discounts greater than or equal to 50%. This will affect the company’s profit/revenue generated. 
 - Only three products emerge with a rating of 5.0. indicating consumers' satisfaction.
-- Most prodducts fell in the ₹200-₹500 price range bucket showing the highest potential revenue.
+- Most products fell in the ₹200-₹500 price range bucket showing the highest potential revenue.
 
 
 <img width="1233" alt="Image" src="https://github.com/user-attachments/assets/e2771101-0759-4afc-8234-2eaf5d863e03" />
