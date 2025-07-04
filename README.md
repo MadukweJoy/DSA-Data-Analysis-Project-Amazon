@@ -7,7 +7,7 @@
 -	[Tool Used](#Tool-Used)
 -	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 -	[Results/Findings](#Results/Findings)
--	[Recommendation](#Recommendation)
+-	[Recommendations](#Recommendations)
 
 ### Project Overview
 This data analysis project aims to provide e-commerce analytic solution on products and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
