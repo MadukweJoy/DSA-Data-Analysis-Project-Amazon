@@ -53,7 +53,7 @@ The analysis results are summarized as follows:
 <img width="1233" alt="Image" src="https://github.com/user-attachments/assets/e2771101-0759-4afc-8234-2eaf5d863e03" />
 
 
-### Recommendation
+### Recommendations
 Based on the analysis we recommend the following:
 -	Focus on expanding and marketing products with the highest average ratings and within the ₹200-₹500 price range bucket.
 -	Promote products with less than 1000 reviews.
